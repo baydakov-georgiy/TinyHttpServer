@@ -1,6 +1,6 @@
 # Простой HTTP сервер
 
-![preview](./assets/preview.png)
+![preview](./assets/header.png)
 
 Что сделано:
 - TCP сервер
