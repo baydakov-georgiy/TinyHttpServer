@@ -1,5 +1,7 @@
 # Простой HTTP сервер
 
+[!preview](./assets/preview.png)
+
 Что сделано:
 - TCP сервер
 - Цикл + accept
